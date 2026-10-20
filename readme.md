@@ -5,8 +5,6 @@
 <!-- QUICK LINKS & RESOURCE PLACEHOLDERS -->
 <!-- Replace '#' with your actual URLs (e.g., LinkedIn, Portfolio, Drive, Live Demo) -->
 <!-- ========================================================================= -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=aboutdotme)](https://github.com/mohdather-dot)
 [![Power BI File](https://img.shields.io/badge/Download-Power_BI_PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](./dashboard/UCB_Library_Analytics.pbix)
 [![SQL Scripts](https://img.shields.io/badge/View-SQL_Scripts-336791?style=for-the-badge&logo=postgresql&logoColor=white)](./sql/)
 [![Python Script](https://img.shields.io/badge/View-Python_Code-3776AB?style=for-the-badge&logo=python&logoColor=white)](./python/)
